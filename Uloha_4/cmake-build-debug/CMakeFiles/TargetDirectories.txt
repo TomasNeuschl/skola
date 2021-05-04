@@ -1,0 +1,3 @@
+/media/tomas/7CCC4C2ACC4BDD50/PA2/Uloha 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/tomas/7CCC4C2ACC4BDD50/PA2/Uloha 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/tomas/7CCC4C2ACC4BDD50/PA2/Uloha 4/cmake-build-debug/CMakeFiles/Uloha_4.dir

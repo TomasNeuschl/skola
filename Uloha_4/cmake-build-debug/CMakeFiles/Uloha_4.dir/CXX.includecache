@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/tomas/7CCC4C2ACC4BDD50/PA2/Uloha 4/test.cpp
+cstring
+-
+cstdlib
+-
+cstdio
+-
+cassert
+-
+cctype
+-
+cmath
+-
+iostream
+-
+iomanip
+-
+sstream
+-
+string
+-
+

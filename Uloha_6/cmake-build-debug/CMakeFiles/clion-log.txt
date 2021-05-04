@@ -1,0 +1,4 @@
+/snap/clion/19/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/media/tomas/7CCC4C2ACC4BDD50/PA2/Uloha 6"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/tomas/7CCC4C2ACC4BDD50/PA2/Uloha 6/cmake-build-debug

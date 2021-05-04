@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Uloha_6.dir/test.cpp.o  -o Uloha_6 

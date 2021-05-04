@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/tomas/7CCC4C2ACC4BDD50/PA2/Uloha 6/test.cpp
+cassert
+-
+cstdio
+-
+cstdlib
+-
+climits
+-
+iostream
+-
+sstream
+-
+iomanip
+-
+string
+-
+vector
+-
+queue
+-
+stack
+-
+deque
+-
+map
+-
+set
+-
+list
+-
+algorithm
+-
+functional
+-
+iterator
+-
+memory
+-
+stdexcept
+-
+
